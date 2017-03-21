@@ -31,3 +31,5 @@ public class bill{
 }
 
 // here is the comment 
+
+//calculating taxes
